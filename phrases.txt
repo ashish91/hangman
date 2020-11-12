@@ -1,0 +1,5560 @@
+ a time
+ please complete
+ hours of receiving
+ please familiarize thoroughly
+ Its a
+ game where the
+ phrase generated
+ letter at
+ The player only
+ gets a
+ incorrect guesses
+ before he loses
+ is typically
+ a very
+ incorporate any graphics
+ to use
+ Before beginning
+ to program
+ list of english
+ This will serve
+ as your
+ which you will
+ randomly select a
+ serving the
+ game to the
+ bank must adhere
+ the following
+ Phrases should
+ What do you
+ you could
+ generate phrases like
+ All these are
+ by punctuations
+ be considered
+ a valid phrase
+ a valid
+ phrase since
+ the two words
+ Phrases should
+ and spaces and
+ modify the strings
+ from the corpus
+ any way
+ by removing certain
+ words to
+ adhere to
+ as is
+ sentence corpus
+ it should
+ than adjusted to
+ adhere to the
+ need to be
+ a huge
+ it should be
+ big enough so
+ that you can
+ Write a
+ and extract
+ could be
+ unintentional partial
+ but the
+ more or
+ less be
+ the rules
+ or great
+ and submit the
+ to the
+ sentence corpus used
+ from the
+ Actual phrase
+ bank generated
+ When programming the
+ the program will
+ phrase randomly
+ from the
+ Once a phrase
+ you should show
+ the underscores
+ for each
+ letter until
+ either they guess
+ run out
+ The user
+ but correctly
+ should not
+ After every
+ the user
+ should be able
+ letters in
+ correctly guessed
+ Their incorrectly
+ many incorrect guesses
+ they have
+ down to
+ It does not
+ but it
+ should serve as
+ general basis of
+ the user should
+ have access to
+ as they make
+ game developer
+ sure to
+ count for
+ same incorrect guesses
+ and other edge
+ the game experience
+ as coherent as
+ cases to
+ provide a smooth
+ Since this is
+ important to manage
+ your time
+ efficiently so that
+ you can complete
+ the whole assignment
+ rather than
+ spending too
+ end to end
+ Handle all edge
+ cases such
+ even if
+ cases such as
+ readability will
+ be one
+ of the most
+ important evaluation
+ Here are a
+ things to keep
+ more manageable
+ have a
+ function that is
+ doing multiple
+ naming conventions and
+ methods and
+ try to do
+ with a very
+ the code should
+ comments should
+ understand the
+ developer should be
+ the code
+ document instructions on
+ Note this
+ is just a
+ sample output
+ look significantly different
+ from the
+ below output as
+ you handle
+ edge cases
+ e Correct
+ i e
+ u t
+ Guess a
+ u t
+ o m
+ u t e
+ o m
+ u t
+ e Correct
+ c o m
+ t e
+ Guess a
+ c o
+ m p
+ s c
+ c e
+ Guess a
+ c o
+ u t e
+ i e
+ n c e
+ You got
+ ANIMAL FARM
+ George Orwell Styled
+ Contents Chapter I
+ Chapter VI
+ CONTENTS Chapter VII
+ present document
+ was derived
+ available free
+ This document is
+ also free
+ had locked
+ too drunk to
+ ber to shut
+ With the
+ ring of
+ light from
+ from side
+ he lurched
+ kicked off his
+ glass of beer
+ from the barrel
+ his way
+ the light in
+ all through
+ Word had gone
+ round during
+ the day that
+ prize Middle White
+ had a strange
+ dream on the
+ previous night and
+ It had
+ been agreed
+ meet in
+ as soon as
+ Jones was
+ out of
+ he was
+ though the name
+ been exhibited was
+ was so
+ eryone was quite
+ ready to
+ lose an
+ order to hear
+ what he
+ one end
+ of the big
+ on a
+ of raised
+ was already ensconced
+ on his bed
+ a lantern
+ which hung
+ He was
+ twelve years old
+ had lately
+ grown rather
+ with a
+ and benevolent
+ ance in spite
+ that his
+ long the
+ other animals
+ began to
+ arrive and make
+ comfortable after
+ and then
+ who settled down
+ the straw immediately
+ The hens
+ the pigeons
+ up to
+ the sheep
+ and cows
+ lay down
+ the pigs
+ began to chew
+ The two
+ Boxer and
+ setting down
+ their vast hairy
+ hoofs with
+ great care lest
+ small animal concealed
+ CHAPTER I
+ mare approaching
+ ter her fourth
+ nearly eighteen
+ and as strong
+ any two ordinary
+ fact he was
+ not of
+ but he
+ spected for
+ his steadiness
+ of character and
+ tremendous powers of
+ After the horses
+ and the
+ He seldom
+ and when he
+ that God
+ had given
+ him a
+ tail to
+ keep the
+ sooner have had
+ no tail and
+ the animals
+ on the
+ If asked
+ he would say
+ he saw
+ nothing to
+ he was devoted
+ the two
+ them usually spent
+ the small paddock
+ grazing side
+ by side
+ had just lain
+ cheeping feebly and
+ CHAPTER I to
+ where they
+ would not be
+ down inside
+ At the
+ pretty white
+ mare who
+ came mincing
+ chewing at a
+ and began
+ hoping to
+ draw attention
+ to the
+ ribbons it was
+ of all came
+ squeezed herself in
+ tween Boxer and
+ she purred contentedly
+ speech without
+ listening to
+ a word
+ what he was
+ present except
+ who slept
+ on a perch
+ behind the
+ saw that they
+ had all made
+ themselves comfortable
+ were waiting
+ heard already
+ about the strange
+ that I
+ But I
+ will come to
+ something else to
+ I do
+ that I shall
+ be with
+ I feel
+ my duty to
+ pass on
+ had a long
+ CHAPTER I
+ I have
+ for thought
+ I lay alone
+ in my
+ and I
+ I may say
+ that I understand
+ the nature
+ this earth
+ as well as
+ any animal
+ about this
+ that I
+ wish to speak
+ what is
+ Let us face
+ We are
+ we are given
+ just so much
+ as will
+ breath in our
+ forced to
+ atom of our
+ that our usefulness
+ end we are
+ is a
+ No animal
+ in England
+ of an
+ is this
+ poor that
+ it cannot
+ afford a
+ life to
+ a thousand
+ of England
+ its climate
+ capable of
+ dance to
+ an enormously
+ greater number of
+ animals than now
+ This single farm
+ ours would
+ support a dozen
+ hundreds of
+ all of
+ them living
+ a dignity that
+ Why then
+ do we
+ this miserable
+ Because nearly
+ the whole
+ of the produce
+ of our
+ from us by
+ is the answer
+ It is summed
+ up in
+ a single
+ Man is
+ the only
+ Remove Man
+ from the
+ and the
+ root cause
+ and overwork
+ abolished for
+ creature that
+ consumes without
+ does not give
+ he does
+ not lay
+ he is
+ too weak to
+ he cannot run
+ fast enough
+ to catch
+ he is
+ lord of
+ he gives
+ to them the
+ our dung fertilises
+ and yet
+ is not
+ I see before
+ gallons of milk
+ which should
+ have been breeding
+ Every drop
+ it has
+ gone down
+ many eggs
+ this last
+ of those eggs
+ gone to
+ market to
+ in money
+ where are
+ those four
+ who should
+ of your old
+ Each was
+ sold at
+ will never
+ for your four
+ labour in
+ you ever had
+ except your bare
+ rations and a
+ lead are not
+ reach their
+ I am
+ one of
+ the lucky
+ have had
+ over four hundred
+ Such is the
+ natural life
+ animal escapes
+ the cruel
+ You young
+ front of
+ every one of
+ you will scream
+ at the
+ block within
+ Even the
+ dogs have
+ no better
+ the very day
+ that those great
+ muscles of
+ yours lose
+ sell you
+ cut your throat
+ and boil
+ As for the
+ when they grow
+ Jones ties a
+ round their necks
+ and drowns them
+ in the nearest
+ that all
+ of ours spring
+ tyranny of human
+ get rid
+ and the
+ of our
+ overnight we
+ CHAPTER I
+ What then must
+ for the
+ overthrow of
+ my message
+ I do
+ that Rebellion
+ might be
+ in a
+ but I
+ as surely
+ as I see
+ beneath my
+ later justice
+ out the
+ remainder of your
+ And above
+ message of
+ mine to those
+ come after
+ so that future
+ on the
+ your resolution must
+ No argument must
+ and the animals
+ that the prosperity
+ prosperity of the
+ It is
+ Man serves
+ terests of no
+ And among
+ imals let there
+ All men are
+ there was a
+ rats had
+ of their holes
+ on their
+ dogs had suddenly
+ and it
+ was only by
+ a swift dash
+ holes that
+ raised his
+ that must be
+ as rats and
+ they our
+ friends or
+ and it was
+ by an
+ There were only
+ three dogs
+ and the
+ was afterwards
+ have voted
+ enmity towards
+ Man and all
+ Whatever goes upon
+ goes upon
+ also that
+ we must
+ not come
+ to resemble
+ Even when
+ No animal
+ or sleep
+ or smoke
+ All the habits
+ of Man are
+ no animal must
+ over his
+ Weak or
+ All animals
+ my dream of
+ I cannot
+ was a
+ dream of the
+ it will
+ But it
+ had long
+ my mother and
+ other sows
+ old song
+ of which
+ they knew only
+ the tune
+ but it
+ had long since
+ to me
+ in my
+ And what is
+ which were sung
+ by the
+ animals of
+ long ago
+ lost to memory
+ will sing you
+ I am
+ but when I
+ have taught you
+ it better for
+ Major cleared
+ his throat and
+ began to
+ The words
+ beasts of
+ land and
+ to my
+ or late
+ Man shall
+ And the fruitful
+ of England Shall
+ by beasts
+ Rings shall
+ And the
+ harness from
+ Bit and
+ spur shall rust
+ no more
+ more than
+ Wheat and
+ oats and
+ ours upon
+ Bright will
+ Purer shall
+ its waters
+ yet shall
+ breezes On the
+ sets us
+ For that
+ we all
+ toil for
+ Beasts of
+ Beasts of
+ every land
+ Hearken well and
+ spread my
+ tidings Of the
+ The singing
+ of this
+ threw the animals
+ into the
+ Almost before
+ Major had
+ reached the
+ them had
+ already picked up
+ and as
+ they had
+ within a few
+ the whole farm
+ burst out into
+ The cows lowed
+ the dogs whined
+ with the song
+ that they
+ sang it
+ might have
+ singing it all
+ night if they
+ the uproar awoke
+ out of
+ that there
+ fox in
+ of his
+ in the
+ and the
+ broke up
+ The birds
+ to their
+ animals settled
+ down in the
+ whole farm
+ asleep in
+ HREE nights
+ later old
+ peacefully in his
+ His body
+ was buried
+ at the
+ foot of
+ was much
+ speech had
+ given to the
+ more intelligent
+ on the
+ farm a
+ completely new
+ They did not
+ know when the
+ by Major
+ they had no
+ reason for
+ it would
+ but they
+ saw clearly that
+ it was
+ duty to
+ organising the
+ fell naturally upon
+ being the
+ were two
+ named Snowball
+ only Berkshire
+ but with
+ for getting
+ Snowball was
+ vivacious pig
+ speech and
+ have the
+ same depth
+ the other
+ male pigs
+ The best
+ a small
+ fat pig named
+ with very round
+ He was
+ a brilliant
+ and when
+ point he
+ had a
+ ping from
+ whisking his
+ which was somehow
+ said of Squealer
+ These three
+ teachings into
+ complete system
+ to which they
+ Several nights a
+ they held
+ secret meetings
+ the barn and
+ pounded the
+ principles of
+ Animalism to the
+ the beginning
+ with much
+ of the animals
+ referred to
+ mentary remarks such
+ If he
+ starve to
+ is to
+ what difference does
+ work for
+ in making them
+ that this was
+ to the
+ The stupidest
+ questions of all
+ asked by
+ the white
+ The very
+ asked Snowball
+ there still
+ have no means
+ of making
+ not need
+ have all
+ oats and
+ to wear ribbons
+ in my
+ you are
+ so devoted
+ Can you not
+ derstand that
+ but she
+ did not
+ harder struggle
+ to counteract the
+ lies put
+ and a
+ a clever
+ claimed to
+ CHAPTER II
+ the existence
+ called Sugarcandy
+ to which
+ all animals
+ in the
+ a little distance
+ In Sugarcandy
+ Mountain it
+ was Sunday seven
+ days a
+ and lump sugar
+ grew on
+ The animals hated
+ Moses because he
+ told tales
+ and did no
+ but some
+ believed in
+ pigs had to
+ argue very hard
+ there was
+ no such
+ Their most faithful
+ were the
+ Boxer and
+ These two had
+ pigs as their
+ thing that
+ and passed it
+ imals by simple
+ in their
+ attendance at the
+ secret meetings
+ meetings always
+ as it turned
+ the Rebellion
+ was achieved much
+ earlier and
+ more easily than
+ In past years
+ had been a
+ but of late
+ he had
+ fallen on evil
+ after losing money
+ and had
+ good for
+ For whole days
+ time he
+ would lounge in
+ bread soaked
+ His men were
+ were full of
+ the hedges were
+ came and the
+ hay was
+ almost ready for
+ which was a
+ Jones went
+ into Willingdon and
+ drunk at the
+ Red Lion
+ come back till
+ The men
+ the early morning
+ and then had
+ without bothering to
+ feed the
+ got back
+ to sleep on
+ sofa with the
+ the World
+ imals were still
+ stand it no
+ the cows
+ broke in the
+ shed with her
+ horn and all
+ animals began
+ themselves from
+ It was just
+ then that
+ The next
+ moment he
+ four men were
+ with whips
+ in their
+ in all
+ more than the
+ II mals could
+ of the kind
+ had been
+ selves upon
+ being butted and
+ kicked from
+ quite out
+ never seen animals
+ behave like this
+ and this
+ sudden uprising
+ used to thrashing
+ frightened them almost
+ out of
+ a moment
+ or two
+ they gave up
+ trying to defend
+ later all
+ them were in
+ led to
+ with the
+ animals pursuing them
+ Jones looked
+ the bedroom
+ possessions into
+ and slipped out
+ of the
+ Moses sprang off
+ and his
+ out on to
+ the road and
+ slammed the
+ what was
+ the Rebellion
+ and the
+ For the
+ few minutes the
+ lieve in their
+ was to
+ gallop in
+ right round the
+ as though to
+ make quite
+ sure that
+ no human
+ then they
+ raced back
+ the end
+ of the
+ stables was
+ Jones had
+ to castrate the
+ thrown on
+ to the rubbish
+ the animals capered
+ the whips
+ Snowball also
+ to the
+ the ribbons with
+ manes and tails
+ had usually been
+ decorated on
+ which are the
+ mark of a
+ When Boxer
+ heard this
+ small straw hat
+ wore in
+ out of
+ In a
+ very little
+ CHAPTER II
+ that reminded
+ Napoleon then
+ to the
+ and served
+ a double
+ ration of
+ biscuits for each
+ Then they sang
+ from end
+ and after that
+ the night and
+ never slept
+ at dawn
+ glorious thing
+ they all raced
+ out into
+ A little
+ way down
+ a knoll that
+ a view of
+ rushed to
+ top of
+ gazed round
+ the clear
+ it was
+ that they
+ could see was
+ ecstasy of that
+ they gambolled
+ round and
+ they hurled
+ themselves into
+ in great leaps
+ in the
+ clods of the
+ black earth
+ Then they made
+ a tour of
+ inspection of
+ and surveyed
+ with speechless admiration
+ It was
+ as though they
+ seen these
+ and even now
+ they could hardly
+ back to the
+ CHAPTER II silence
+ outside the
+ That was
+ they were
+ frightened to go
+ Snowball and Napoleon
+ butted the door
+ walking with
+ They tiptoed from
+ afraid to
+ speak above a
+ of awe at
+ with their feather
+ the Brussels
+ the lithograph
+ Queen Victoria
+ the others
+ shoulder and
+ a very
+ and the barrel
+ of beer in
+ the scullery was
+ otherwise nothing
+ in the
+ was passed on
+ should be
+ were agreed
+ that no
+ CHAPTER II The
+ animals had
+ Napoleon called them
+ a long day
+ Today we
+ begin the hay
+ But there
+ be attended
+ pigs now revealed
+ during the past
+ they had taught
+ themselves to read
+ had belonged to
+ children and which
+ had been thrown
+ Napoleon sent for
+ pots of
+ black and
+ led the
+ to the
+ gave on to
+ Then Snowball
+ it was
+ was best
+ took a brush
+ two knuckles of
+ painted out MANOR
+ FARM from the
+ the gate and
+ in its
+ to be
+ the name of
+ the farm from
+ to the
+ where Snowball and
+ der which
+ caused to
+ end wall of
+ They explained that
+ by their
+ the pigs had
+ Animalism to
+ These Seven
+ Commandments would now
+ be inscribed on
+ CHAPTER II the
+ animals on
+ Animal Farm must
+ it is not
+ a pig
+ Snowball climbed
+ up and
+ set to
+ with Squealer a
+ few rungs
+ below him
+ wall in
+ letters that
+ They ran
+ Whatever goes
+ upon two legs
+ No animal shall
+ No animal shall
+ All animals
+ It was
+ very neatly
+ and except
+ and one
+ of the
+ was the
+ was correct all
+ aloud for the
+ of the
+ CHAPTER II
+ the animals
+ nodded in
+ ones at once
+ began to
+ throwing down
+ Let us
+ of honour
+ to get
+ harvest more
+ than Jones
+ and his
+ at this
+ who had
+ set up
+ a loud
+ and their
+ were almost
+ After a little
+ the pigs
+ sent for buckets
+ the cows fairly
+ their trotters being
+ Soon there
+ creamy milk at
+ the animals
+ to all that
+ in our
+ said one
+ mind the
+ in front
+ will be attended
+ The harvest
+ is more
+ Snowball will lead
+ I shall
+ a few
+ The hay is
+ So the
+ animals trooped
+ down to the
+ to begin
+ in the evening
+ it was
+ noticed that
+ Chapter III OW
+ and sweated
+ to get the
+ H their
+ for the
+ harvest was an
+ even bigger
+ Sometimes the work
+ implements had been
+ and not
+ was able to
+ that involved standing
+ But the
+ they could think
+ of a
+ way round
+ As for the
+ they knew
+ inch of
+ and in fact
+ ing and
+ raking far
+ Jones and his
+ The pigs
+ not actually
+ knowledge it
+ was natural that
+ they should
+ harness themselves
+ pig walking
+ behind and
+ as the
+ animal down to
+ worked at turning
+ and hens toiled
+ fro all day
+ hay in
+ the end they
+ than it
+ Jones and
+ the biggest
+ harvest that the
+ was no wastage
+ hens and
+ ducks with their
+ sharp eyes had
+ ered up
+ And not an
+ animal on the
+ farm had
+ stolen so
+ through that summer
+ the work
+ of the farm
+ happy as
+ it possible
+ Every mouthful
+ was truly
+ doled out to
+ them by a
+ With the worthless
+ human beings
+ there was
+ CHAPTER III
+ There was
+ rienced though the
+ when they
+ they had
+ to tread it
+ out in
+ style and blow
+ the pigs with
+ their cleverness and
+ muscles always
+ Boxer was the
+ He had
+ seemed more like
+ when the entire
+ farm seemed
+ to rest
+ on his mighty
+ From morning to
+ night he was
+ always at
+ the spot
+ where the work
+ had made an
+ arrangement with
+ one of the
+ cockerels to
+ in the
+ mornings half
+ an hour
+ earlier than
+ and would put
+ whatever seemed
+ had adopted
+ as his
+ everyone worked
+ according to
+ The hens
+ bushels of
+ at the
+ harvest by
+ over his
+ the quarrelling
+ CHAPTER III and
+ biting and jealousy
+ which had
+ been normal
+ old days had
+ at getting up
+ and had
+ that there
+ a stone
+ in her
+ And the behaviour
+ cat was
+ was soon noticed
+ be done
+ cat could
+ She would vanish
+ and then reappear
+ or in the
+ work was
+ But she
+ always made
+ such excellent
+ that it
+ was impossible not
+ to believe
+ in her
+ seemed quite
+ unchanged since the
+ work in the
+ obstinate way
+ as he
+ had done it
+ never shirking
+ extra work
+ About the
+ results he
+ would express no
+ happier now
+ that Jones
+ live a
+ None of
+ you has
+ ever seen a
+ to be
+ with this
+ On Sundays
+ hour later than
+ and after breakfast
+ there was
+ III mony
+ which was
+ observed every
+ the hoisting
+ Snowball had
+ green tablecloth
+ and had painted
+ on it
+ a horn
+ This was run
+ up the
+ the hoof
+ the future Republic
+ of the
+ Animals which
+ would arise when
+ into the
+ for a
+ general assembly which
+ as the
+ put forward
+ the pigs who
+ put forward the
+ animals understood
+ could never
+ of any resolutions
+ of their
+ were by
+ far the most
+ noticed that
+ these two were
+ whatever suggestion either
+ of them
+ could be counted
+ on to oppose
+ small paddock
+ chard as a
+ animals who
+ debate over
+ correct retiring
+ each class
+ always ended
+ with the singing
+ afternoon was given
+ up to
+ The pigs
+ had set
+ aside the
+ which they
+ had brought
+ out of
+ the other animals
+ he called
+ He was
+ indefatigable at
+ tion Committee
+ the Clean
+ Tails League
+ for the
+ object of this
+ the rats
+ besides instituting classes
+ in reading
+ these projects were
+ The attempt to
+ tame the wild
+ to behave very
+ and when treated
+ The cat
+ Committee and
+ very active in
+ She was
+ day sitting
+ on a
+ talking to
+ some sparrows
+ who were
+ just out of
+ She was
+ telling them that
+ all animals
+ CHAPTER III
+ perch on
+ but the
+ were a great
+ By the autumn
+ animal on
+ the farm
+ was literate in
+ already read
+ The dogs
+ read fairly
+ but were not
+ interested in reading
+ except the
+ and sometimes
+ scraps of newspaper
+ which she
+ Benjamin could
+ read as
+ never exercised
+ So far
+ as he
+ there was nothing
+ Clover learnt the
+ could not
+ beyond the
+ in the
+ dust with
+ and then would
+ stand staring at
+ the letters with
+ his ears
+ shaking his
+ trying with all
+ might to
+ On several
+ he did learn
+ but by
+ the time he
+ discovered that
+ Finally he decided
+ and used to
+ write them
+ CHAPTER III once
+ or twice
+ every day
+ to refresh
+ fused to
+ six letters
+ She would form
+ these very
+ and would then
+ walk round them
+ None of
+ the other animals
+ on the farm
+ could get
+ ther than
+ It was also
+ learn the
+ Seven Commandments
+ ter much
+ thought Snowball declared
+ mandments could
+ reduced to a
+ contained the essential
+ principle of
+ Whoever had thoroughly
+ grasped it would
+ be safe from
+ The birds
+ since it
+ proved to
+ this was
+ organ of
+ not of
+ be regarded
+ The distinguishing mark
+ man is the
+ with which he
+ birds did
+ CHAPTER III butthey
+ imals set to
+ work to
+ learn the new
+ FOUR LEGS
+ inscribed on the
+ above the
+ Commandments and in
+ When they
+ had once
+ got it
+ the sheep developed
+ a great liking
+ and often
+ as they lay
+ in the
+ they would all
+ and keep
+ for hours
+ never growing tired
+ He said
+ of the young
+ portant than anything
+ that could be
+ done for
+ who were already
+ It happened
+ bell had
+ both whelped
+ soon after
+ As soon
+ as they were
+ Napoleon took them
+ he would make
+ himself responsible for
+ them up into
+ a loft
+ which could
+ kept them
+ in such
+ seclusion that
+ the rest
+ of the
+ farm soon forgot
+ where the
+ to was soon
+ The early apples
+ the grass
+ orchard was
+ sumed as
+ matter of course
+ the order went
+ the windfalls were
+ to be
+ the use of
+ some of the
+ but it
+ was no
+ All the pigs
+ were in
+ full agreement
+ Snowball and
+ planations to the
+ do not
+ that we pigs
+ a spirit
+ us actually dislike
+ milk and
+ I dislike them
+ Our sole
+ object in
+ taking these
+ Milk and apples
+ has been
+ proved by
+ lutely necessary
+ We pigs
+ management and
+ this farm
+ depend on
+ we are
+ ing over
+ It is for
+ if we pigs
+ side to
+ CHAPTER III
+ whisking his
+ no one
+ who wants to
+ animals were
+ that they
+ did not
+ When it
+ was put
+ The importance
+ good health was
+ ther argument that
+ the milk
+ and the
+ should be
+ the pigs
+ had happened B
+ on Animal Farm
+ Every day Snowball
+ Napoleon sent out
+ were to
+ mingle with
+ the story of
+ and teach them
+ the tune
+ room of
+ the Red Lion
+ one who
+ monstrous injustice he
+ had suffered
+ in being turned
+ property by
+ pack of
+ The other
+ did not
+ give him
+ them was secretly
+ wondering whether
+ could not somehow
+ misfortune to his
+ of the two
+ nently bad
+ One of
+ which was named
+ with all
+ its pastures
+ its hedges in
+ gentleman farmer who
+ time in
+ according to the
+ was called
+ was smaller and
+ owner was a
+ perpetually involved
+ two disliked
+ each other
+ that it
+ for them to
+ defence of their
+ they were both
+ thoroughly frightened
+ by the rebellion
+ laugh to
+ mals managing
+ The whole
+ thing would
+ put it
+ about that
+ the animals
+ on the
+ CHAPTER IV ing
+ it the Manor
+ were perpetually
+ selves and were
+ When time
+ passed and the
+ had evidently
+ Frederick and
+ began to talk
+ of the terrible
+ ished on
+ that the
+ mals there practised
+ tortured one
+ and had
+ against the laws
+ a wonderful
+ had been
+ in vague
+ a wave of
+ rebelliousness ran
+ Bulls which had
+ down hedges and
+ devoured the
+ cows kicked the
+ their fences
+ riders on
+ and even the
+ spread with
+ The human beings
+ contain their rage
+ when they heard
+ They could
+ how even
+ bring themselves to
+ singing it
+ given a
+ And yet the
+ The blackbirds
+ the pigeons cooed
+ it in the
+ it got into
+ the din of
+ and the tune
+ of the
+ And when
+ the human beings
+ a prophecy of
+ and some of
+ of pigeons
+ the yard
+ of Animal
+ with half a
+ dozen others
+ gate and
+ were coming
+ led to the
+ They were
+ who was marching
+ ahead with a
+ gun in his
+ Obviously they
+ going to
+ the recapture of
+ all preparations
+ had studied
+ he had
+ in the
+ in charge
+ IV gave
+ and in
+ a couple
+ of minutes
+ every animal
+ As the
+ approached the farm
+ the number
+ fro over the
+ heads and muted
+ and while
+ rushed out
+ and pecked viciously
+ the calves
+ a light skirmishing
+ intended to
+ create a
+ and the
+ men easily drove
+ the geese off
+ Snowball now launched
+ his second line
+ and all the
+ with Snowball
+ rushed forward and
+ prodded and
+ butted the
+ men from every
+ lashed at
+ them with his
+ But once again
+ their sticks
+ strong for
+ at a squeal
+ all the
+ through the
+ gateway into
+ just what
+ As soon
+ as they
+ were well
+ inside the
+ CHAPTER IV three
+ and the rest
+ of the
+ who had
+ in ambush
+ He himself dashed
+ straight for
+ saw him
+ his gun and
+ and a sheep
+ Without halting for
+ Jones was hurled
+ into a
+ and his gun
+ the most terrifying
+ of all was
+ hind legs
+ out with
+ hoofs like
+ His very
+ blow took a
+ stretched him
+ lifeless in
+ and tried
+ the next moment
+ together were
+ chasing them
+ round and
+ There was
+ imal on the
+ that did
+ suddenly leapt
+ roof onto a
+ sank her claws
+ At a
+ moment when the
+ glad enough to
+ rush out
+ yard and
+ make a
+ bolt for
+ CHAPTER IV
+ invasion they were
+ they had
+ them and
+ pecking at
+ Back in the
+ yard Boxer
+ his hoof
+ at the
+ who lay
+ face down
+ in the
+ said Boxer
+ of doing
+ was wearing
+ not do
+ cried Snowball
+ from whose wounds
+ the blood was
+ The only
+ good human being
+ wish to take
+ not even
+ were full
+ fact was
+ there was
+ might have
+ in some
+ carried her
+ In the
+ with her
+ the hay
+ the gun went
+ And when the
+ others came
+ it was
+ had already recovered
+ and made
+ had now
+ reassembled in the
+ each recounting his
+ own exploits
+ in the
+ battle at the
+ of his
+ celebration of
+ run up and
+ was sung
+ then the sheep
+ who had
+ a hawthorn bush
+ side Snowball made
+ emphasising the need
+ to die
+ Animal Farm
+ decided unanimously
+ to create
+ ferred there and
+ It consisted
+ which had
+ found in the
+ to be
+ There was also
+ was conferred
+ posthumously on
+ to what the
+ In the
+ Battle of the
+ that was where
+ the ambush had
+ gun had
+ was known
+ that there was
+ supply of cartridges
+ It was decided
+ to set
+ of the
+ piece of
+ it twice a
+ the anniversary
+ of the Battle
+ and once
+ anniversary of
+ S winter
+ more and
+ She was
+ work every morning
+ and excused herself
+ by saying
+ she had
+ she complained of
+ every kind of
+ pretext she
+ would run
+ away from
+ to the drinking
+ at her own
+ But there
+ were also rumours
+ as Mollie strolled
+ blithely into the
+ her long
+ tail and
+ chewing at
+ a stalk of
+ Clover took her
+ have something very
+ CHAPTER V say
+ saw you looking
+ over the
+ that divides
+ was standing on
+ other side of
+ was a long
+ almost certain I
+ to you
+ and you were
+ lowing him to
+ to prance
+ paw the
+ Look me
+ Do you
+ your word
+ but she
+ in the
+ and the
+ took to
+ her heels
+ to the
+ stall and turned
+ straw was
+ tle pile
+ of lump
+ sugar and several
+ bunches of ribbon
+ Three days later
+ For some weeks
+ nothing was known
+ CHAPTER V
+ reported that they
+ had seen
+ her on
+ the other side
+ shafts of a
+ painted red and
+ standing outside a
+ man in
+ check breeches and
+ who looked
+ like a
+ her with
+ coat was newly
+ wore a
+ to be enjoying
+ the animals
+ there came
+ The earth was
+ meetings were
+ held in
+ and the
+ out the work
+ It had
+ come to
+ were manifestly
+ should decide all
+ questions of
+ decisions had
+ rangement would
+ worked well enough
+ had not been
+ the disputes
+ Snowball and
+ These two
+ disagreed at
+ one of
+ them suggested
+ sowing a bigger
+ and if
+ one of
+ CHAPTER V
+ would declare that
+ useless for
+ Each had his
+ and there were
+ Snowball often
+ won over the
+ majority by his
+ but Napoleon
+ better at canvassing
+ support for himself
+ in between
+ Of late the
+ taken to bleating
+ two legs
+ and they
+ ten interrupted
+ the Meeting
+ that they were
+ especially liable to
+ break into
+ two legs
+ at crucial
+ Snowball had
+ study of some
+ back numbers
+ of the
+ which he had
+ found in
+ and was
+ full of plans
+ for innovations
+ out a
+ the animals to
+ their dung directly
+ at a
+ save the labour
+ Napoleon produced no
+ schemes of
+ would come to
+ be biding
+ But of all
+ none was so
+ bitter as the
+ one that took
+ not far
+ from the
+ was a small
+ highest point
+ Snowball declared
+ that this
+ was just
+ the place
+ to operate
+ dynamo and
+ This would light
+ and warm
+ them in
+ a circular
+ an electric milking
+ The animals
+ had never heard
+ of anything of
+ farm was an
+ one and had
+ only the
+ in astonishment while
+ Snowball conjured
+ of fantastic machines
+ their work
+ while they
+ grazed at their
+ ease in the
+ or improved
+ their minds
+ with reading
+ Within a few
+ mill were
+ from three
+ had belonged to
+ Useful Things
+ His Own
+ used as
+ which had
+ once been
+ for incubators and
+ had a
+ He was closeted
+ there for
+ hours at
+ With his
+ by a
+ and with a
+ V knuckles of
+ move rapidly
+ line after line
+ and uttering
+ whimpers of
+ complicated mass of
+ cranks and
+ covering more
+ which the
+ other animals
+ intelligible but
+ them came to
+ look at
+ drawings at
+ hens and
+ not to
+ the chalk
+ Only Napoleon
+ had declared
+ himself against
+ the windmill
+ looked closely
+ then stood for
+ a little
+ contemplating them out
+ the corner
+ of his
+ he lifted
+ urinated over the
+ and walked out
+ The whole
+ farm was deeply
+ divided on
+ of the
+ build it
+ Stone would
+ carried and built
+ then the
+ sails would
+ have to
+ be made
+ there would
+ need for dynamos
+ Snowball did not
+ But he
+ maintained that
+ it could all
+ be done
+ in a
+ CHAPTER V
+ much labour would
+ be saved that
+ animals would
+ only need to
+ work three days
+ on the
+ argued that
+ the moment was
+ to increase
+ that if
+ time on
+ the windmill they
+ starve to
+ The animals formed
+ themselves into
+ factions under the
+ for Napoleon and
+ the full
+ was the
+ only animal
+ who did
+ He refused
+ to believe
+ that food
+ would become
+ or that
+ the windmill
+ mill or
+ would go on
+ as it
+ Apart from the
+ there was the
+ question of the
+ It was fully
+ alised that
+ human beings
+ had been
+ defeated in the
+ the Cowshed they
+ might make another
+ more determined
+ to recapture
+ the farm and
+ They had
+ all the
+ news of
+ their defeat
+ made the
+ ing farms
+ and Napoleon
+ According to
+ what the animals
+ must do
+ themselves in the
+ they must send
+ out more and
+ more pigeons and
+ stir up rebellion
+ on the
+ that if
+ defend themselves they
+ the other
+ argued that
+ rebellions happened everywhere
+ they would
+ need to
+ animals listened
+ then to
+ they always found
+ selves in
+ agreement with
+ the one who
+ was speaking
+ At last
+ plans were
+ At the Meeting
+ on the following
+ tion of
+ or not to
+ begin work
+ on the windmill
+ had assembled
+ in the
+ Snowball stood
+ though occasionally
+ interrupted by bleating
+ sons for
+ advocating the building
+ stood up
+ He said
+ the windmill was
+ nonsense and
+ advised nobody
+ to vote for
+ promptly sat
+ he had
+ spoken for barely
+ and seemed almost
+ as to
+ At this
+ sprang to his
+ and shouting down
+ a passionate
+ Until now
+ equally divided in
+ eloquence had
+ carried them
+ ing sentences he
+ painted a picture
+ Animal Farm
+ sordid labour was
+ His imagination had
+ now run far
+ erate threshing
+ and reapers
+ and cold
+ By the
+ he had
+ there was no
+ which way
+ just at this
+ Napoleon stood
+ a peculiar sidelong
+ per of a
+ no one
+ heard him utter
+ At this
+ into the
+ They dashed straight
+ his place
+ was out
+ of the
+ door and they
+ frightened to
+ all the
+ to watch the
+ racing across
+ CHAPTER V
+ to the
+ He was
+ running as
+ only a
+ but the dogs
+ on his
+ it seemed
+ then the dogs
+ gaining on him
+ One of
+ all but
+ closed his
+ but Snowball
+ free just
+ Then he put
+ with a few
+ slipped through
+ a hole
+ the hedge and
+ was seen
+ back into
+ In a
+ moment the dogs
+ no one had
+ been able
+ where these
+ but the
+ problem was
+ were the puppies
+ whom Napoleon
+ away from
+ Though not
+ They kept
+ close to
+ they wagged their
+ him in the
+ same way
+ the other dogs
+ to do to
+ where Major had
+ viously stood
+ to deliver his
+ announced that
+ from now
+ on the
+ Meetings would
+ come to
+ CHAPTER V
+ all questions relating
+ farm would
+ be settled
+ by a special
+ presided over
+ These would
+ and afterwards
+ The animals would
+ ings to salute
+ their orders
+ the animals were
+ dismayed by
+ Several of them
+ protested if they
+ found the right
+ Boxer was
+ forelock several
+ tried hard
+ to marshal
+ the end
+ not think
+ Some of the
+ were more
+ Four young porkers
+ in the
+ front row uttered
+ shrill squeals
+ four of
+ sprang to
+ feet and
+ But suddenly the
+ dogs sitting
+ round Napoleon let
+ fell silent and
+ sat down
+ the sheep
+ broke out into
+ tremendous bleating of
+ two legs
+ which went on
+ an hour
+ farm to
+ arrangement to
+ every animal here
+ Comrade Napoleon has
+ made in
+ it is a
+ deep and
+ than Comrade Napoleon
+ that all animals
+ be only
+ too happy
+ let you
+ decisions for
+ might make the
+ where should we
+ had decided
+ as we
+ was no better
+ than a
+ at the
+ Battle of the
+ is not
+ obedience are
+ And as to
+ the time
+ will come when
+ part in
+ That is
+ the watchword
+ CHAPTER V
+ would be upon
+ do not
+ Once again this
+ tainly the animals
+ did not
+ want Jones
+ ing of debates
+ to bring him
+ then the
+ debates must
+ time to
+ And from then
+ on he
+ is always
+ to his
+ private motto
+ By this
+ had broken
+ and the spring
+ where Snowball
+ of the
+ windmill had
+ that the
+ plans had
+ been rubbed
+ Sunday morning at
+ bled in the
+ big barn to
+ The skull of
+ set up
+ at the
+ beside the
+ After the
+ the animals
+ required to
+ in a reverent
+ manner before
+ days they
+ did not sit
+ with Squealer
+ another pig named
+ on the
+ with the nine
+ young dogs forming
+ a semicircle
+ other pigs sitting
+ sat facing
+ body of
+ read out
+ the orders for
+ after a
+ single singing of
+ all the
+ Sunday after
+ the animals were
+ was to be
+ He did not
+ give any
+ reason for
+ having changed
+ warned the
+ would mean very
+ it might even
+ had all
+ down to
+ the last
+ pigs had
+ at work upon
+ The building
+ with various other
+ expected to
+ take two
+ explained privately to
+ in reality
+ been opposed to
+ who had
+ vocated it
+ in the
+ of the
+ incubator shed
+ CHAPTER V been
+ stolen from
+ spoken so strongly
+ SEEMED to
+ oppose the
+ manoeuvre to get
+ rid of
+ was a
+ could go forward
+ without his
+ was something called
+ skipping round
+ a merry
+ were not
+ certain what
+ and the three
+ be with him
+ growled so
+ planation without further
+ the animals
+ But they A
+ they did was
+ for the
+ themselves and
+ those of their
+ and not for
+ a pack
+ and summer they
+ worked a
+ in August
+ Napoleon announced
+ that there
+ on Sunday afternoons
+ animal who
+ sented himself
+ would have
+ his rations
+ it was
+ found necessary
+ to leave
+ CHAPTER VI
+ tain tasks
+ The harvest was
+ a little
+ less successful than
+ which should
+ have been
+ sown with
+ because the
+ ploughing had not
+ been completed early
+ It was
+ possible to
+ The windmill
+ presented unexpected
+ was a
+ on the
+ cement had
+ the materials
+ for building
+ problem the
+ solve was
+ how to
+ stone into
+ pieces of
+ no way
+ doing this
+ except with picks
+ no animal could
+ animal could
+ stand on his
+ Only after
+ weeks of
+ idea occur
+ far too
+ big to be
+ used as they
+ were lying
+ over the
+ bed of
+ animals lashed ropes
+ and then
+ could lay hold
+ joined in at
+ dragged them with
+ desperate slowness up
+ top of
+ where they
+ the stone
+ horses carried
+ it off
+ the sheep
+ even Muriel and
+ into an old
+ and did
+ store of
+ under the
+ superintendence of
+ a whole
+ day of
+ exhausting effort
+ drag a
+ single boulder
+ it was
+ pushed over the
+ edge it failed
+ strength seemed equal
+ to that
+ the rest
+ the animals
+ to slip and
+ out in
+ despair at
+ themselves dragged down
+ it was
+ and brought the
+ To see him
+ up the slope
+ his breath
+ hoofs clawing
+ and his great
+ everyone with
+ Clover warned him
+ sometimes to
+ careful not to
+ but Boxer would
+ never listen to
+ His two
+ seemed to him
+ answer to all
+ He had made
+ with the cockerel
+ to call
+ of an
+ hour earlier
+ which there
+ were not
+ he would go
+ a load of
+ down to the
+ of the windmill
+ The animals
+ were not
+ badly off throughout
+ in spite
+ of the
+ If they had
+ advantage of
+ only having
+ and not
+ was so
+ great that
+ have taken
+ a lot
+ of failures
+ to outweigh
+ the animal
+ method of doing
+ things was more
+ and saved
+ be done
+ with a
+ thoroughness impossible
+ animal now
+ it was
+ unnecessary to fence
+ off pasture from
+ lot of
+ labour on
+ of hedges
+ summer wore
+ began to make
+ them selves
+ and iron for
+ none of which
+ duced on
+ be need
+ VI seeds and
+ besides various
+ for the
+ How these
+ no one
+ decided upon a
+ mal Farm
+ for any
+ to obtain certain
+ materials which
+ The needs
+ He was
+ making arrangements
+ and part of
+ and later
+ if more money
+ it would
+ to be made
+ up by
+ the sale of
+ which there was
+ always a market
+ should welcome this
+ Once again the
+ never to engage
+ these been
+ resolutions passed
+ triumphant Meeting after
+ Jones was
+ CHAPTER VI
+ at least
+ four young
+ the Meetings raised
+ promptly silenced
+ by a
+ broke into
+ two legs
+ and the momentary
+ Napoleon raised
+ his trotter
+ for silence
+ and announced that
+ There would be
+ the animals
+ to come
+ which would clearly
+ be most
+ the whole
+ his own
+ a solicitor
+ living in
+ had agreed to
+ intermediary between
+ Animal Farm
+ and the outside
+ and would visit
+ with his usual
+ cry of
+ singing of
+ Afterwards Squealer made
+ a round of
+ the farm
+ and set
+ them that
+ engaging in
+ trade and
+ It was pure
+ probably traceable in
+ few animals
+ but Squealer
+ asked them
+ this is
+ something that
+ any record
+ of such
+ Is it
+ written down
+ since it was
+ the animals were
+ that they
+ had been
+ Every Monday
+ Whymper visited the
+ farm as
+ little man with
+ a solicitor in
+ a very small
+ enough to
+ earlier than
+ need a broker
+ and that the
+ The animals
+ watched his coming
+ going with
+ and avoided him
+ as much
+ the sight
+ on all
+ who stood
+ roused their pride
+ and partly
+ reconciled them to
+ relations with
+ race were
+ the same as
+ mal Farm
+ any less
+ that it
+ they hated
+ being held
+ as an
+ article of
+ faith that
+ the farm
+ would go
+ bankrupt sooner
+ that the
+ windmill would
+ be a
+ and prove
+ to one another
+ of diagrams that
+ to fall
+ it did
+ it would
+ against their
+ certain respect for
+ which the animals
+ were managing their
+ One symptom
+ of this
+ was that
+ they had
+ begun to call
+ Farm by
+ proper name
+ tend that
+ it was
+ also dropped
+ hope of getting
+ his farm
+ in another part
+ Except through
+ there was
+ contact between Animal
+ there were constant
+ Napoleon was about
+ to enter
+ pigs suddenly
+ moved into
+ the farmhouse
+ and took
+ up their residence
+ Again the
+ animals seemed to
+ that a
+ tion against
+ been passed in
+ was able to
+ convince them
+ that this was
+ It was
+ who were
+ should have
+ a quiet
+ It was
+ suited to the
+ dignity of
+ the Leader
+ of late
+ had taken
+ ing of
+ than in
+ some of the
+ disturbed when
+ and used the
+ but also slept
+ off as
+ went to
+ the end
+ and tried
+ to puzzle out
+ the Seven
+ Commandments which
+ Finding herself
+ me the Fourth
+ never sleeping
+ With some
+ Muriel spelt
+ animal shall
+ sleep in a
+ she announced
+ remembered that
+ the Fourth
+ as it
+ must have
+ CHAPTER VI
+ be passing
+ attended by two
+ was able to
+ whole matter in
+ pigs now
+ the beds
+ of the
+ And why
+ You did
+ that there
+ A bed
+ merely means
+ a place to
+ straw in a
+ stall is
+ The rule was
+ which are
+ We have
+ from the
+ and sleep between
+ able beds they
+ more comfortable
+ I can
+ with all
+ the brainwork we
+ have to do
+ not rob us
+ too tired
+ to carry out
+ Surely none of
+ you wishes
+ to see
+ this point
+ more was
+ said about the
+ pigs sleeping in
+ it was
+ nounced that
+ from now on
+ the pigs
+ get up
+ an hour
+ later in
+ the autumn the
+ were tired
+ They had
+ sale of
+ part of
+ the hay
+ for the
+ but the windmill
+ compensated for
+ It was
+ almost half built
+ After the
+ was a
+ and the animals
+ harder than
+ thinking it
+ worth while
+ to plod
+ to and
+ with blocks of
+ stone if by
+ Boxer would even
+ come out at
+ work for
+ an hour or
+ the light
+ spare moments the
+ would walk round
+ round the
+ admiring the strength
+ its walls and
+ they should
+ ever have been
+ able to build
+ Only old
+ refused to grow
+ he would utter
+ nothing beyond
+ mark that donkeys
+ with raging
+ it was
+ now too
+ wet to
+ mix the
+ there came a
+ the gale
+ was so
+ olent that
+ the farm
+ buildings rocked on
+ their foundations and
+ several tiles were
+ blown off the
+ roof of
+ The hens woke
+ up squawking
+ with terror because
+ dreamed simultaneously
+ go off in
+ In the
+ animals came
+ out of their
+ had been
+ blown down
+ and an
+ elm tree
+ the orchard had
+ plucked up like
+ They had
+ when a
+ cry of despair
+ A terrible sight
+ down to
+ the fruit of
+ levelled to its
+ they stood gazing
+ mournfully at
+ ter of
+ and fro in
+ rigid and twitched
+ sharply from
+ side to
+ him of intense
+ Suddenly he
+ though his
+ mind were made
+ you know who
+ sponsible for
+ night and
+ roared in
+ a voice
+ and avenge himself
+ for his
+ has crept
+ and now I
+ pronounce the
+ and half a
+ him to
+ A full bushel
+ to anyone
+ The animals were
+ shocked beyond
+ measure to
+ could be
+ such an
+ There was
+ a cry
+ ways of catching
+ Snowball if he
+ Almost immediately
+ the footprints of
+ were discovered in
+ grass at
+ distance from
+ They could
+ be traced for
+ a few
+ peared to
+ lead to a
+ hole in the
+ Napoleon snuffed deeply
+ at them and
+ pronounced them to
+ as his opinion
+ Snowball had probably
+ the direction of
+ when the
+ had been
+ is work to
+ morning we
+ begin rebuilding
+ will build
+ We will teach
+ this miserable
+ traitor that
+ there must be
+ they shall
+ CHAPTER VI out
+ Long live
+ T was
+ The stormy weather
+ by sleet
+ and then
+ frost which did
+ on as
+ could with
+ the rebuilding of
+ well knowing that
+ world was
+ envious human beings
+ would rejoice
+ umph if the
+ Out of
+ pretended not
+ was Snowball
+ who had
+ destroyed the
+ had fallen down
+ because the walls
+ The animals knew
+ that this
+ not the
+ it had been
+ decided to build
+ instead of eighteen
+ larger quantities of
+ time the quarry
+ and nothing could
+ was made
+ frosty weather that
+ feel so hopeful
+ about it
+ were always
+ Boxer and
+ speeches on
+ the joy
+ of service
+ and the
+ but the
+ other animals found
+ strength and his
+ will work
+ In January food
+ The corn ration
+ and it was
+ announced that an
+ potato ration would
+ issued to make
+ up for
+ part of
+ the potato
+ which had
+ been covered thickly
+ The potatoes had
+ become soft and
+ and only
+ few were
+ days at
+ a time
+ mals had
+ nothing to
+ but chaff and
+ It was
+ from the
+ Emboldened by the
+ collapse of
+ the human
+ beings were
+ inventing fresh
+ lies about
+ it was
+ being put
+ animals were dying
+ and that
+ they were
+ themselves and had
+ was well
+ aware of the
+ bad results
+ if the
+ real facts
+ of the food
+ cided to
+ Whymper to
+ spread a
+ had had
+ little or
+ a few
+ were instructed to
+ rations had been
+ ordered the almost
+ empty bins
+ the brim with
+ what remained
+ of the
+ some suitable
+ per was
+ to catch
+ report to the
+ there was
+ it became
+ procure some
+ days Napoleon
+ his time in
+ which was
+ at each door
+ CHAPTER VII When
+ it was
+ in a ceremonial
+ surrounded him and
+ anyone came
+ not even
+ his orders
+ who had just
+ come in to
+ The price of
+ enough grain and
+ meal to
+ keep the farm
+ going till
+ summer came
+ on and conditions
+ When the hens
+ raised a terrible
+ They had been
+ earlier that
+ not believed that
+ They were just
+ getting their clutches
+ protested that
+ to take
+ the eggs
+ now was
+ For the
+ sion of
+ there was something
+ Led by three
+ young Black Minorca
+ the hens
+ made a determined
+ Their method was
+ rafters and there
+ which smashed to
+ pieces on
+ ordered the
+ tions to
+ CHAPTER VII so
+ to a hen
+ should be
+ to it
+ that these
+ days the
+ hens held
+ lated and
+ went back
+ in the
+ buried in the
+ that they
+ nothing of
+ once a week
+ All this
+ had been
+ hiding on one
+ better terms
+ the other
+ ers than
+ It happened that
+ there was in
+ yard a
+ of timber
+ which had
+ ten years earlier
+ when a
+ beech spinney was
+ and Whymper
+ Napoleon to
+ Frederick were
+ anxious to
+ to make up
+ whenever he seemed
+ the point
+ of coming to
+ an agreement
+ be in
+ ball was
+ said to be
+ early in
+ an alarming
+ Snowball was
+ secretly frequenting
+ they could
+ hardly sleep
+ it was
+ he came
+ creeping in under
+ cover of
+ he upset
+ he broke
+ he trampled
+ the bark off
+ to attribute it
+ If a
+ was broken or
+ one was
+ certain to
+ say that
+ and when
+ the key
+ the whole
+ convinced that
+ Snowball had
+ thrown it
+ they went
+ this even
+ found under a
+ The cows declared
+ their stalls
+ which had
+ also said to
+ be in league
+ Napoleon decreed
+ that there should
+ be a full
+ With his dogs
+ out and
+ made a
+ careful tour of
+ tion of the
+ the other animals
+ few steps Napoleon
+ CHAPTER VII stopped
+ ground for
+ traces of
+ could detect by
+ snuffed in
+ in the
+ Snowball almost
+ He would
+ snout to
+ He has
+ I can
+ and at the
+ all the
+ and showed their
+ Snowball were
+ pervading the air
+ menacing them
+ all kinds of
+ In the
+ he had
+ some serious news
+ thing has been
+ ball has sold
+ himself to
+ who is
+ even now
+ plotting to attack
+ Snowball is
+ act as
+ thought that
+ rebellion was
+ caused simply by
+ But we were
+ Do you know
+ Snowball was in
+ from the
+ He was
+ agent all
+ It has all
+ been proved by
+ he left
+ which we have
+ only just
+ explains a
+ how he
+ destroyed at
+ the Battle
+ The animals were
+ This was a
+ destruction of
+ it was some
+ minutes before they
+ They all
+ or thought they
+ had seen Snowball
+ them at
+ the Battle
+ of the
+ how he had
+ rallied and encouraged
+ not paused
+ for an
+ wounded his
+ to see how
+ being on
+ tucked his fore
+ hoofs beneath
+ and with a
+ effort managed to
+ I saw him
+ Did we
+ give him
+ CHAPTER VII
+ it is all
+ written down in
+ secret documents that
+ we have
+ in reality he
+ all saw
+ was part
+ shot only grazed
+ could show you
+ this in
+ if you
+ The plot
+ to the
+ he very nearly
+ ceeded if
+ not been for
+ our heroic
+ ment when
+ and his
+ men had
+ got inside
+ suddenly turned
+ and many
+ animals followed
+ And do you
+ that it
+ at that
+ when panic was
+ that Comrade
+ Napoleon sprang
+ forward with
+ sank his
+ frisking from
+ CHAPTER VII
+ Now when
+ it seemed to
+ animals that
+ At any
+ remembered that
+ at the
+ critical moment
+ of the
+ battle Snowball
+ had turned
+ But Boxer
+ do not
+ believe that
+ was a
+ has done
+ since is
+ believe that
+ the Cowshed he
+ and from long
+ before the Rebellion
+ is the true
+ but it was
+ noticed he
+ cast a
+ very ugly
+ look at
+ turned to
+ then paused
+ warn every
+ animal on this
+ farm to
+ For we have
+ think that
+ some of
+ us at this
+ in the
+ to assemble
+ When they
+ were all gathered
+ Napoleon emerged
+ with his nine
+ growls that
+ shivers down all
+ They all
+ cowered silently in
+ seeming to
+ that some
+ ble thing
+ was about to
+ Napoleon stood
+ sternly surveying
+ Immediately the dogs
+ four of
+ the pigs by
+ and dragged
+ squealing with
+ ears were
+ the dogs
+ and for
+ a few
+ go quite
+ of them
+ Boxer saw them
+ coming and
+ put out his
+ a dog
+ and pinned him
+ The dog
+ shrieked for mercy
+ the other two
+ with their tails
+ to know
+ appeared to change
+ and sharply
+ whereat Boxer
+ The four
+ with guilt
+ writtenon everyline
+ now called upon
+ them to confess
+ pigs as
+ protested when Napoleon
+ they confessed that
+ they had been
+ touch with
+ ever since
+ that they
+ had collaborated with
+ and that
+ they had
+ Animal Farm to
+ added that
+ Snowball had
+ privately admitted to
+ When they had
+ the dogs
+ hens who
+ had been
+ tempted rebellion over
+ came forward
+ and stated
+ had appeared
+ to them
+ them to
+ Then a
+ goose came
+ confessed to
+ six ears
+ of corn during
+ CHAPTER VII
+ eaten them in
+ Then a
+ sheep confessed
+ to having
+ in the drinking
+ urged to do
+ sheep confessed
+ murdered an old
+ round and round
+ when he
+ was suffering
+ They were
+ pile of corpses
+ lying before
+ air was heavy
+ with the smell
+ which had
+ it was
+ except for
+ They were shaken
+ know which was
+ treachery of the
+ themselves with
+ or the
+ old days
+ there had
+ often been
+ to all
+ of them
+ that it
+ now that it
+ Since Jones
+ had left the
+ animal had
+ killed another
+ a rat
+ They had made
+ way on to
+ the little knoll
+ accord they
+ all lay down
+ huddling together
+ and a whole
+ of geese
+ the animals to
+ Only Boxer
+ mained on
+ swishing his long
+ his sides
+ and occasionally
+ I would
+ It must
+ some fault
+ as I see
+ is to
+ From now onwards
+ I shall
+ get up
+ full hour earlier
+ in the
+ lumbering trot and
+ Having got
+ he collected
+ two successive loads
+ of stone and
+ dragged them down
+ to the windmill
+ they were lying
+ gave them a
+ wide prospect
+ was within
+ long pasture
+ stretching down to
+ the main
+ red roofs
+ with the smoke
+ curling from
+ was a clear
+ The grass
+ and the bursting
+ were gilded
+ by the level
+ rays of the
+ a kind
+ they remembered that
+ it was
+ to the
+ As Clover
+ looked down the
+ hillside her eyes
+ could have spoken
+ say that this
+ was not
+ aimed at
+ had set
+ years ago to
+ of the
+ These scenes of
+ slaughter were not
+ what they had
+ that night when
+ If she herself
+ had any picture
+ it had
+ been of
+ imals set
+ from hunger
+ each working according
+ the strong protecting
+ as she had
+ the lost
+ did not
+ to a
+ time when
+ no one
+ comrades torn
+ confessing to
+ She knew
+ were far
+ off than
+ they had
+ been in
+ the days
+ and that before
+ it was
+ vent the
+ Whatever happened
+ were given to
+ it was
+ for this
+ other animals had
+ hoped and
+ for this
+ had built
+ the windmill and
+ faced the bullets
+ were her
+ words to express
+ feeling this
+ be in
+ a substitute for
+ her took it
+ and they sang
+ but slowly and
+ in a
+ they had never
+ singing it
+ with the air
+ having something important
+ by a special
+ it was forbidden
+ CHAPTER VII The
+ was the song
+ is now
+ The execution of
+ this afternoon
+ enemy both
+ external and internal
+ expressed our
+ longing for a
+ better society
+ that society has
+ has no
+ longer any
+ Frightened though
+ some of the
+ animals might possibly
+ the sheep set
+ up their usual
+ bleating of
+ on for several
+ minutes and put
+ its place
+ had composed
+ Never through me
+ come to
+ every Sunday morning
+ of the
+ CHAPTER VII
+ tune ever seemed
+ Chapter VIII
+ few days
+ terror caused
+ A executions
+ the Sixth Commandment
+ animal shall
+ And though
+ mention it
+ in the
+ the killings
+ square with
+ Benjamin to
+ said that
+ refused to meddle
+ any other
+ Somehow or
+ the last two
+ slipped out
+ saw now
+ that the Commandment
+ clearly there was
+ good reason
+ had leagued themselves
+ the animals worked
+ they had worked
+ together with
+ There were times
+ worked longer
+ hours and
+ fed no
+ better than
+ had done in
+ Sunday mornings
+ a long strip
+ of paper
+ read out to
+ them lists
+ proving that
+ the production of
+ every class
+ foodstuff had
+ hundred per
+ hundred per
+ as the
+ The animals
+ especially as
+ no longer
+ remember very clearly
+ were days
+ when they
+ felt that
+ they would
+ have had less
+ and more
+ All orders
+ were now issued
+ was not
+ seen in
+ in a
+ When he
+ he was attended
+ not only
+ by his
+ CHAPTER VIII
+ a black
+ cockerel who marched
+ in front of
+ him and acted
+ as a
+ out a loud
+ before Napoleon
+ Even in
+ took his
+ with two dogs
+ Crown Derby dinner
+ service which
+ glass cupboard
+ announced that the
+ every year
+ as on
+ was now never
+ to in formal
+ style as
+ and this pigs
+ liked to
+ him such
+ titles as Father
+ ror of
+ Squealer would talk
+ his cheeks
+ dom the goodness
+ love he
+ bore to
+ and especially
+ happy animals
+ lived in
+ ignorance and
+ give Napoleon the
+ for every
+ of good
+ the guidance
+ of our
+ CHAPTER VIII
+ I have
+ eggs in six
+ or two
+ to the leadership
+ how excellent this
+ The general
+ feeling on
+ expressed in
+ and which
+ ran as
+ soul is on
+ I gaze at
+ Calm and
+ Like the
+ Thou are the
+ All that thy
+ Full belly twice
+ clean straw to
+ Every beast
+ at peace
+ in his
+ grown as
+ as a
+ or as a
+ should have learned
+ to be
+ Faithful and true
+ Napoleon approved of
+ this poem and
+ caused it to
+ the wall of
+ at the
+ It was surmounted
+ a portrait
+ executed by Squealer
+ in complicated negotiations
+ The pile of
+ Of the
+ Frederick was
+ to get hold
+ but he
+ not offer
+ a reasonable
+ same time
+ there were
+ renewed rumours
+ that Frederick
+ of which had
+ Snowball was
+ be still skulking
+ In the
+ middle of
+ hear that three
+ forward and confessed
+ entered into
+ a plot
+ to murder
+ safety were
+ dogs guarded his
+ and a
+ young pig
+ of tasting
+ before he
+ At about the
+ was given
+ out that
+ Napoleon had
+ of timber to
+ he was
+ to enter into
+ a regular
+ certain products between
+ they were only
+ greatly preferred him
+ both feared
+ and the
+ impending treacherous attack
+ grew stronger
+ it was
+ against them
+ and he
+ had already
+ bribed the
+ magistrates and
+ get hold
+ would ask no
+ out from
+ elties that Frederick
+ he had killed
+ he amused
+ himself in the
+ ters of
+ blood boiled with
+ rage when they
+ heard of
+ and sometimes
+ they clamoured
+ to be
+ allowed to go
+ and attack
+ set the
+ avoid rash
+ feeling against Frederick
+ CHAPTER VIII
+ barn and explained
+ he had never
+ at any
+ selling the
+ pile of
+ timber to
+ with scoundrels
+ pigeons who
+ spread tidings of
+ foot anywhere on
+ their former slogan
+ summer yet another
+ The wheat
+ and it was
+ discovered that
+ on one of
+ his nocturnal
+ its Snowball
+ mixed weed
+ with the
+ who had been
+ privy to
+ his guilt
+ and immediately committed
+ swallowing deadly nightshade
+ The animals
+ now also
+ that Snowball had
+ many of
+ them had
+ the order
+ This was
+ merely a
+ legend which
+ had been
+ spread some
+ of the
+ shed by Snowball
+ he had been
+ for showing
+ cowardice in
+ Once again
+ the animals heard
+ this with a
+ vince them that
+ memories had
+ CHAPTER VIII In
+ machinery had
+ still to
+ and Whymper
+ was negotiating
+ the purchase of
+ but the
+ structure was
+ In the
+ in spite of
+ of primitive
+ walked round
+ and round
+ which appeared
+ built the
+ the walls
+ as thick as
+ And when
+ agements they had
+ and the enormous
+ encethatwouldbemade intheirliveswhenthesailswere
+ the dynamos
+ they thought of
+ their tiredness forsook
+ cries of
+ attended by
+ down to inspect
+ personally congratulated
+ that the
+ days later
+ the animals were
+ meeting in
+ They were struck
+ dumb with
+ he had
+ pile of
+ timber to
+ ons would
+ Napoleon had
+ in secret agreement
+ with Foxwood
+ been told to
+ Farm and
+ At the
+ stories of an
+ impending attack
+ the tales
+ cruelty to his
+ been greatly
+ All these
+ originated with
+ Snowball and
+ Snowball was
+ hiding on
+ and in fact
+ so it
+ in reality
+ a pensioner
+ of Pilkington for
+ seeming to be
+ forced Frederick to
+ his price by
+ VIII superior quality
+ was shown
+ in the
+ fact that
+ the timber
+ paper with a
+ to pay written
+ too clever
+ He had
+ were to be
+ handed over
+ before the
+ Already Frederick
+ the sum
+ just enough
+ buy the machinery
+ for the
+ timber was being
+ carted away at
+ for the animals
+ and wearing
+ reposed on
+ straw on
+ with the
+ a china dish
+ from the
+ and each
+ his nose
+ white things
+ stirred and
+ in his
+ Three days later
+ was a terrible
+ his face
+ up the
+ it down
+ in the
+ yard and
+ rushed straight
+ rage sounded
+ The news of
+ what had
+ The banknotes
+ Frederick had
+ got the
+ timber for
+ Napoleon called the
+ together immediately and
+ in a
+ terrible voice
+ death sentence
+ Frederick should
+ At the
+ ter this
+ the worst
+ his men
+ might make
+ Sentinels were
+ approaches to the
+ four pigeons were
+ a conciliatory
+ was hoped might
+ good relations with
+ The very
+ next morning the
+ The animals
+ breakfast when the
+ with the news
+ that Frederick
+ and his
+ followers had
+ but this time
+ they did not
+ they had had
+ in the
+ Battle of the
+ as soon
+ as they got
+ The animals
+ not face
+ explosions and the
+ and in spite
+ they were
+ A number of
+ them were already
+ took refuge
+ tiously out
+ was in
+ the hands
+ even Napoleon seemed
+ up and
+ down without
+ tail rigid and
+ Wistful glances
+ were sent
+ the direction of
+ the day
+ might yet be
+ But at
+ had been
+ them bearing a
+ scrap of
+ paper from
+ was pencilled
+ Meanwhile Frederick
+ and his
+ men had halted
+ a murmur of
+ of the
+ had produced a
+ They were
+ going to
+ have built
+ They could
+ not knock it
+ down in a
+ was watching the
+ with the
+ hammer and
+ the crowbar were
+ drilling a
+ with an
+ you not
+ they are going
+ powder into
+ impossible now
+ the shelter of
+ After a few
+ minutes the men
+ was a
+ bellies and hid
+ got up
+ hanging where
+ Slowly the breeze
+ The windmill had
+ At this
+ courage returned to
+ The fear
+ in their
+ rage against this
+ A mighty
+ cry for
+ vengeance went
+ orders they charged
+ forth in
+ and made straight
+ for the
+ This time
+ they did
+ not heed the
+ cruel pellets
+ swept over them
+ It was
+ CHAPTER VIII a
+ again and
+ when the animals
+ with their sticks
+ and their
+ geese were
+ and nearly
+ everyone was
+ who was
+ of his tail
+ But the
+ did not go
+ of them had
+ their heads
+ broken by
+ in the
+ belly by
+ torn off by
+ Jessie and
+ nine dogs
+ a detour
+ der cover
+ suddenly appeared
+ on the
+ were in
+ men to get
+ out while the
+ going was
+ and the next
+ moment the cowardly
+ running for dear
+ down to the
+ and got in
+ some last kicks
+ them as
+ they forced
+ their way through
+ They had
+ they were
+ weary and
+ to limp back
+ The sight
+ of their
+ grass moved some
+ of them
+ for a little
+ sorrowful silence
+ almost the last
+ trace of
+ Even the foundations
+ And in rebuilding
+ could not
+ This time the
+ explosion had
+ distances of hundreds
+ It was
+ as though
+ whisking his tail
+ and beaming
+ the direction
+ of the
+ the solemn
+ that gun
+ celebrate our
+ His knees
+ a shoe
+ and split his
+ pellets had
+ lodged themselves
+ in his hind
+ Have we not
+ driven the
+ sacred soil of
+ they have destroyed
+ worked on
+ it for
+ CHAPTER VIII
+ We will
+ We will build
+ six windmills
+ if we
+ was in
+ occupation of this
+ we stand
+ leadership of
+ have won every
+ inch of
+ back what we
+ They limped into
+ The pellets
+ under the
+ He saw ahead
+ of him
+ rebuilding the windmill
+ and already
+ in imagination
+ he braced
+ himself for
+ it occurred
+ to him
+ that he was
+ years old and
+ that perhaps
+ his great muscles
+ were not quite
+ what they
+ the animals saw
+ and heard
+ the gun
+ times it
+ to them
+ after all
+ had won
+ were given a
+ CHAPTER VIII
+ pulled the
+ wagon which served
+ and Napoleon himself
+ head of
+ Two whole days
+ There were
+ and more
+ a special gift
+ of an apple
+ two ounces of
+ corn for each
+ three biscuits
+ for each
+ would be
+ Napoleon had created
+ the Order of
+ the Green
+ which he
+ had conferred upon
+ general rejoicings the
+ affair of
+ the banknotes
+ It was a
+ few days
+ later than this
+ that the
+ pigs came upon
+ a case of
+ whisky in the
+ cellars of
+ It had been
+ time when
+ the house
+ That night there
+ farmhouse the
+ past nine
+ old bowler hat
+ to emerge from
+ But in
+ the morning a
+ deep silence
+ Not a
+ pig appeared to
+ nearly nine
+ made his
+ walking slowly
+ hanging limply
+ and with every
+ of being
+ called the
+ and told
+ had a
+ terrible piece
+ of news
+ A cry
+ of lamentation
+ was laid
+ outside the doors
+ and the animals
+ tears in
+ they asked
+ one another what
+ should do
+ A rumour
+ went round
+ Snowball had
+ to introduce
+ out to
+ make another
+ last act
+ Comrade Napoleon
+ had pronounced
+ the drinking
+ By the
+ Napoleon appeared to
+ and the following
+ was able to
+ was well
+ By the evening
+ that day
+ Napoleon was
+ back at
+ and on the
+ next day it
+ was learned
+ that he had
+ Whymper to
+ purchase in
+ Willingdon some
+ lets on brewing
+ A week later
+ Napoleon gave orders
+ small paddock
+ beyond the
+ which it
+ had previously been
+ intended to set
+ given out that
+ was exhausted and
+ Napoleon intended to
+ sow it
+ One night
+ and the animals
+ rushed out of
+ It was a
+ the foot of
+ where the
+ Seven Commandments were
+ there lay a
+ der broken
+ was sprawling
+ and near
+ at hand
+ lay a
+ a ring
+ and escorted
+ None of
+ the animals
+ could form
+ idea as
+ to what
+ except old
+ muzzle with
+ and seemed
+ but would say
+ But a few
+ reading over the
+ noticed that
+ there was
+ of them
+ had remembered
+ They had thought
+ the Fifth
+ imal shall
+ but there were
+ CHAPTER VIII
+ they had
+ Chapter IX OXER
+ split hoof was
+ a long time
+ They B had
+ started the
+ rebuilding of
+ the windmill the
+ Boxer refused to
+ take even a
+ and made
+ it a point
+ to let
+ that the hoof
+ troubled him a
+ Clover treated
+ the hoof with
+ poultices of herbs
+ which she prepared
+ and both she
+ Benjamin urged
+ Boxer to work
+ lungs do not
+ Boxer would not
+ see the windmill
+ well under way
+ he reached the
+ the retiring
+ pigs at
+ for sheep
+ As yet
+ mal had actually
+ retired on
+ the small
+ the orchard had
+ been set aside
+ corner of the
+ was to be
+ turned into
+ the pension
+ corn a
+ a carrot or
+ possibly an
+ twelfth birthday was
+ due in the
+ of the
+ Meanwhile life was
+ The winter was
+ the last one
+ and food
+ Once again
+ rations were
+ and the
+ too rigid
+ the principles
+ In any
+ had no
+ in proving to
+ the other
+ animals that
+ short of
+ it had
+ CHAPTER IX
+ readjustment of rations
+ of it
+ as a
+ ison with the
+ the improvement was
+ Reading out the
+ detail that
+ more turnips than
+ they worked
+ drinking water
+ was of
+ of their
+ they had more
+ straw in
+ their stalls and
+ suffered less
+ The animals believed
+ every word of
+ Truth to
+ Jones and
+ stood for had
+ almost faded
+ of their
+ They knew that
+ life nowadays was
+ were often
+ hungry and often
+ and that
+ they were
+ usually working when
+ But doubtless it
+ had been
+ worse in the
+ were glad to
+ those days they
+ had been
+ and that
+ as Squealer
+ not fail
+ were many
+ more mouths
+ In the autumn
+ had all
+ young pigs between
+ and as Napoleon
+ was possible
+ to guess
+ was announced that
+ when bricks
+ and timber had
+ be built in
+ the farmhouse
+ the young pigs
+ given their instruction
+ himself in
+ They took their
+ exercise in
+ discouraged from
+ About this
+ it was laid
+ a rule that
+ any other
+ and also that
+ of whatever
+ were to
+ have the
+ their tails
+ farm had had
+ a fairly successful
+ was still
+ short of
+ There were
+ the schoolroom to
+ and it would
+ saving up
+ for the machinery
+ Then there
+ ground that
+ all the usual
+ such as
+ stump of
+ potato crop were
+ eggs was
+ increased to six
+ so that
+ that year
+ hatched enough chicks
+ numbers at
+ the same
+ reduced in
+ again in
+ putting on
+ One afternoon in
+ late February
+ such as
+ the animals
+ never smelt
+ which had
+ disused in
+ Someonesaid itwas
+ the smell
+ of cooking
+ animals sniffed
+ the air hungrily
+ wondered whether a
+ warm mash was
+ being prepared
+ But no warm
+ and on
+ the following
+ that from
+ barley would be
+ reserved for
+ had already
+ And the
+ news soon leaked
+ out that
+ every pig
+ was now receiving
+ a ration
+ of a pint
+ was always
+ But if
+ there were
+ partly offset by
+ life nowadays had
+ a greater dignity
+ than it had
+ There were more
+ that once a
+ thing called a
+ the object of
+ CHAPTER IX which
+ was to celebrate
+ appointed time the
+ work and march
+ precincts of the
+ farm in
+ with the pigs
+ then the
+ then the
+ the procession
+ the head of
+ ways carried
+ between them a
+ green banner marked
+ and the
+ horn and the
+ Afterwards there
+ were recitations
+ and a
+ by Squealer giving
+ particulars of the
+ latest increases
+ on occasion
+ sheep were the
+ of the
+ if anyone
+ no pigs
+ that they wasted
+ time and
+ a lot
+ of standing
+ in the
+ sheep were
+ a tremendous bleating
+ large the
+ animals enjoyed
+ They found it
+ comforting to
+ be reminded
+ were truly
+ they did was
+ for their own
+ lists of
+ thunder of
+ of the
+ that their
+ at least
+ part of
+ it became
+ necessary to
+ There was
+ On the
+ same day it
+ was given
+ had been discovered
+ which revealed
+ details about
+ It now appeared
+ merely attempted
+ the Battle of
+ the Cowshed by
+ means of a
+ who had actually
+ charged into
+ tle with the
+ which a
+ few of
+ remembered to
+ the middle of
+ suddenly reappeared
+ after an absence
+ of several
+ He was quite
+ ever about
+ He would
+ perch on a
+ the hour to
+ anyone who
+ CHAPTER IX
+ he would
+ pointing to
+ the other
+ that happy country
+ where we
+ poor animals shall
+ rest for ever
+ He even
+ claimed to
+ have been there
+ on one of
+ and to have
+ seen the
+ clover and
+ the linseed
+ and lump
+ growing on
+ of the
+ Their lives
+ were hungry
+ was it
+ not right
+ just that
+ should exist somewhere
+ thing that
+ the pigs
+ They all declared
+ contemptuously that his
+ stories about Sugarcandy
+ Mountain were
+ and yet they
+ with an allowance
+ of a gill
+ of beer
+ had healed
+ Boxer worked
+ harder than
+ the animals
+ slaves that
+ Apart from the
+ work of the
+ there was
+ the schoolhouse
+ was started in
+ times the
+ hours on
+ he said
+ or did was
+ strength was
+ CHAPTER IX
+ it had
+ It was
+ appearance that was
+ his hide was
+ and his great
+ haunches seemed
+ up when
+ spring grass comes
+ spring came and
+ on the slope
+ the top
+ when he
+ against the
+ it seemed that
+ nothing kept
+ on his feet
+ except the
+ will to
+ At such
+ times his
+ lips were seen
+ to form
+ he had no
+ Once again
+ Clover and
+ Benjamin warned
+ take care
+ He did not
+ happened so
+ Late one
+ evening in
+ a sudden
+ rumour ran
+ round the
+ farm that
+ had happened to
+ He had
+ gone out alone
+ a load of
+ stone down to
+ the rumour
+ racing in with
+ is lying on
+ his side and
+ About half the
+ on the farm
+ rushed out
+ to the knoll
+ where the
+ CHAPTER IX the
+ neck stretched
+ His eyes
+ his sides matted
+ stream of
+ of his
+ to her
+ knees at
+ said Boxer in
+ you will
+ the windmill without
+ is a pretty
+ I had
+ only another month
+ to go
+ you the
+ had been
+ looking forward
+ is growing
+ him retire
+ at the
+ be a
+ must get
+ and tell
+ what has
+ All the other
+ animals immediately
+ and Benjamin
+ him with
+ a quarter
+ full of
+ He said
+ rade Napoleon
+ had learned with
+ tress of
+ to one
+ of the
+ IX ers on
+ and was
+ already making
+ be treated
+ in the
+ The animals felt
+ had ever
+ left the
+ and they did
+ veterinary surgeon in
+ Willingdon could
+ more satisfactorily than
+ could be
+ done on the
+ And about half
+ he was
+ on to
+ limp back to
+ Benjamin had prepared
+ a good bed
+ of straw for
+ two days Boxer
+ remained in
+ sent out a
+ which they
+ the medicine chest
+ and Clover administered
+ Boxer twice
+ a day after
+ the evenings she
+ lay in his
+ stall and talked
+ Benjamin kept
+ to be sorry
+ for what had
+ If he
+ he looked forward
+ days that he
+ would spend in
+ the corner of
+ It would
+ that he had
+ had leisure
+ to study
+ CHAPTER IX
+ life to
+ learning the
+ and Clover could
+ be with
+ and it
+ was in the
+ day when
+ the van
+ came to take
+ work weeding
+ sion of
+ they were
+ Benjamin come
+ galloping from the
+ direction of the
+ braying at
+ the top
+ It was the
+ that they
+ had ever
+ it was
+ time that anyone
+ ever seen
+ broke off work
+ and raced
+ back to the
+ in the yard
+ was a large
+ with lettering on
+ man in
+ bowler hat sitting
+ on the
+ crowded round the
+ prancing round them
+ the earth
+ see what
+ is written
+ on the side
+ That gave
+ the animals
+ and there was
+ to spell out
+ pushed her
+ aside and in
+ the midst
+ Horse Slaughterer
+ Do you
+ understand what
+ taking Boxer
+ A cry
+ of horror
+ man on the
+ of the yard
+ at a
+ the animals
+ Clover forced
+ stout limbs to
+ And just at
+ though he had
+ heard the
+ with the white
+ appeared at the
+ at the back
+ cried Clover in
+ you to your
+ took up
+ van was
+ gathering speed and
+ ing away from
+ was uncertain whether
+ Clover had
+ But a moment
+ his face
+ disappeared from
+ the window
+ and there
+ tremendous drumming
+ time had
+ his strength had
+ in a
+ few moments
+ the sound of
+ drumming hoofs
+ grew fainter
+ In desperation the
+ appealing to
+ two horses which
+ your own brother
+ to his
+ too ignorant to
+ merely set
+ back their
+ face did not
+ someone thought of
+ another moment
+ it and
+ disappearing down
+ Three days
+ later it was
+ announced that
+ died in the
+ in spite
+ tention a
+ to the
+ CHAPTER IX
+ was the most
+ I have ever
+ trotter and
+ almost too weak
+ in my ear
+ that his
+ have passed
+ on before the
+ in the
+ name of the
+ Napoleon is
+ were his
+ He fell
+ and his
+ darted suspicious glances
+ from side
+ Some of the
+ animals had noticed
+ the van which
+ took Boxer away
+ had actually jumped
+ conclusion that
+ Boxer was
+ being sent to
+ that any
+ whisking his tail
+ knew their beloved
+ IX But
+ had previously
+ property of the
+ bought by the
+ painted the
+ That was
+ animals were enormously
+ admirable care
+ expensive medicines for
+ paid without a
+ for their
+ death was tempered
+ thought that at
+ least he had
+ Napoleon himself appeared
+ the meeting
+ on the
+ lowing Sunday morning
+ and pronounced a
+ short oration in
+ had not been
+ their lamented
+ ment on the
+ ordered a
+ wreath to
+ be made from
+ laurels in
+ farmhouse garden
+ sent down
+ to be
+ to hold
+ a memorial banquet
+ his speech
+ a reminder of
+ two favourite
+ which every animal
+ to adopt as
+ appointed for
+ van drove up
+ from Willingdon and
+ delivered a large
+ wooden crate
+ That night
+ there was
+ followed by
+ what sounded like
+ quarrel and
+ with a
+ No one
+ on the
+ word went
+ pigs had acquired
+ the money
+ buy themselves
+ The seasons came
+ the old
+ days before
+ Moses the
+ and Pincher were
+ had died
+ of the
+ except by the
+ few who
+ Clover was
+ stiff in
+ the joints
+ and with a
+ She was two
+ but in fact
+ animal had ever
+ The talk of
+ setting aside
+ of the
+ animals had long
+ since been
+ was now a
+ so fat that
+ culty see
+ the same as
+ except for
+ being a little
+ were many more
+ creatures on the
+ the increase
+ so great as
+ pected in earlier
+ Many animals had
+ born to whom
+ the Rebellion
+ was only
+ passed on by
+ word of
+ and others
+ had been bought
+ who had never
+ The farm
+ workers and
+ but very
+ None of them
+ to learn the
+ the letter
+ cepted everything
+ and the
+ an almost
+ The farm
+ was more
+ and better
+ even been
+ enlarged by
+ which had
+ CHAPTER X been
+ The windmill
+ successfully completed at
+ and the
+ farm possessed a
+ elevator of
+ ious new
+ buildings had been
+ himself a
+ was used for
+ brought in
+ a handsome money
+ yet another
+ it was
+ uries of
+ which Snowball
+ once taught the
+ animals to
+ the stalls
+ electric light and
+ hot and cold
+ Napoleon had
+ denounced such
+ ideas as
+ contrary to
+ The truest
+ lay in working
+ and living
+ Somehow it seemed
+ though the
+ farm had grown
+ animals themselves any
+ pigs and
+ this was
+ partly because
+ were so many
+ It was
+ as Squealer
+ was never tired
+ work in the
+ organisation of the
+ Much of
+ this work was
+ kind that
+ animals were too
+ Squealer told them
+ that the
+ pigs had
+ day upon
+ and as soon
+ they were
+ This was of
+ the highest
+ importance for
+ the welfare of
+ dogs produced
+ any food
+ As for
+ so far
+ was as
+ They were
+ they drank from
+ they laboured
+ in winter they
+ were troubled by
+ summer by the
+ older ones
+ among them
+ dim memories
+ and tried
+ whether in
+ the early
+ days of
+ better or
+ They could not
+ they could
+ compare their
+ they had
+ demonstrated that
+ everything was
+ ting better and
+ they had
+ ing on
+ professed to
+ remember every
+ detail of his
+ to know
+ things never
+ nor ever
+ could be much
+ better or
+ the unalterable law
+ yet the
+ sense of
+ in being members
+ farm in
+ owned and
+ Not one
+ the newcomers
+ brought from
+ ever ceased
+ to marvel
+ booming and
+ saw the green
+ at the
+ talk turned always
+ towards the
+ the expulsion of
+ the writing
+ of the Seven
+ which the human
+ old dreams
+ The Republic of
+ the Animals which
+ when the
+ of England
+ should be
+ Some day
+ it might
+ but still
+ secretly here and
+ it was
+ a fact
+ that every animal
+ on the
+ though no one
+ to sing it
+ might be
+ that their lives
+ hard and
+ that not
+ of their
+ but they were
+ conscious that
+ not as
+ If they went
+ it was
+ from feeding tyrannical
+ if they
+ they worked
+ No creature
+ called any other
+ One day
+ in early
+ and led
+ them out
+ of waste ground
+ had become overgrown
+ The sheep spent
+ browsing at
+ the leaves
+ evening he returned
+ was warm
+ told the sheep
+ to stay
+ remaining there
+ during which
+ the other animals
+ Squealer was with
+ them for
+ the greater
+ teaching them
+ to sing a
+ pleasant evening when
+ way back
+ to the farm
+ the animals
+ stopped in
+ It was
+ and all the
+ animals broke into
+ a gallop and
+ what Clover had
+ It was
+ a pig walking
+ on his
+ it was
+ A little
+ as though not
+ quite used
+ to supporting
+ his considerable bulk
+ in that
+ but with
+ he was strolling
+ And a
+ out from
+ of the
+ came a
+ one or
+ unsteady and looked
+ they would have
+ liked the support
+ every one
+ of them made
+ was a tremendous
+ baying of dogs
+ a shrill crowing
+ from the black
+ and out
+ casting haughty
+ from side
+ and with
+ his dogs
+ a whip
+ in his
+ There was a
+ the animals
+ of pigs march
+ slowly round the
+ the world had
+ Then there came
+ a moment
+ shock had
+ worn off
+ in spite of
+ their terror of
+ developed through
+ they might
+ have uttered
+ some word of
+ But just
+ as though at
+ into a
+ two legs
+ Four legs
+ two legs
+ went on
+ by the time
+ the sheep had
+ the pigs
+ Benjamin felt
+ old eyes looked
+ the end of
+ CHAPTER X
+ a minute or
+ two they stood
+ the tatted
+ wall with its
+ when I
+ was young
+ I could not
+ read what
+ was written
+ appears to
+ me that that
+ the same
+ as they
+ used to
+ For once
+ consented to
+ read out
+ to her
+ what was written
+ on the
+ There was nothing
+ there now except
+ ALL ANIMALS
+ ARE EQUAL BUT
+ SOME ANIMALS ARE
+ OTHERS After
+ that it did
+ not seem strange
+ day the
+ who were
+ the farm
+ ried whips
+ It did not
+ seem strange to
+ the pigs
+ had bought
+ were arranging to
+ and had
+ taken out subscriptions
+ It did
+ not seem
+ the farmhouse
+ garden with
+ when the
+ CHAPTER X clothes
+ out of
+ and put them
+ Napoleon himself appearing
+ in a
+ his favourite
+ watered silk dress
+ been used
+ to wearing
+ in the
+ a number of
+ drove up
+ A deputation
+ of neighbouring
+ farmers had
+ been invited to
+ tour of
+ were shown
+ all over the
+ and expressed great
+ for everything they
+ especially the
+ The animals
+ weeding the
+ diligently hardly raising
+ not knowing whether
+ to be more
+ pigs or of
+ evening loud laughter
+ and bursts
+ the sound
+ the animals
+ were stricken with
+ now that for
+ time animals
+ beings were meeting
+ on terms
+ With one accord
+ began to creep
+ as possible
+ the gate
+ half frightened to
+ go on but
+ led the
+ up to the
+ CHAPTER X and
+ as were
+ enough peered
+ sat half
+ dozen farmers and
+ half a dozen
+ of the more
+ the head of
+ appeared completely at
+ ease in their
+ The company had
+ but had
+ to drink
+ A large jug
+ the mugs
+ No one
+ the wondering
+ faces of
+ gazed in
+ he would ask
+ company to
+ there were a
+ words that he
+ incumbent upon
+ was a source
+ of great
+ he was
+ to all
+ feel that
+ riod of
+ There had been
+ or any of
+ there had
+ the respected proprietors
+ had been
+ but perhaps with
+ a certain
+ Unfortunate incidents
+ mistaken ideas
+ the existence of
+ a farm
+ operated by
+ somehow abnormal and
+ Too many
+ without due
+ such a farm
+ and indiscipline
+ or even upon
+ Today he
+ and his
+ friends had
+ visited Animal Farm
+ inspected every
+ inch of it
+ with their
+ and what
+ did they
+ Not only
+ but a
+ which should
+ be an example
+ to all
+ saying that the
+ imals on Animal
+ did more
+ work and received
+ less food
+ today had
+ many features
+ introduce on
+ own farms
+ would end his
+ emphasising once
+ between Animal Farm
+ tween pigs and
+ human beings
+ need not
+ any clash
+ CHAPTER X
+ it became apparent
+ to spring
+ carefully prepared
+ overcome by
+ amusement to
+ to utter
+ ter much
+ during which his
+ various chins
+ he managed to
+ get it
+ lower animals to
+ our lower
+ This BON
+ Pilkington once again
+ congratulated the
+ the general
+ of pampering which
+ he said
+ he would ask
+ the company to
+ rise to
+ feet and make
+ certain that
+ I give you
+ To the
+ prosperity of
+ There was
+ enthusiastic cheering and
+ and came round
+ table to
+ clink his mug
+ When the cheering
+ who had
+ remained on his
+ he too had
+ a few
+ CHAPTER X
+ and to
+ was happy
+ the period
+ of misunderstanding
+ was at an
+ reason to
+ by some malignant
+ there was
+ versive and
+ himself and
+ They had been
+ credited with
+ up rebellion among
+ could be
+ further from
+ live at peace
+ and in normal
+ business relations
+ This farm which
+ he had
+ the honour to
+ was a
+ which were
+ the pigs
+ of the old
+ but certain
+ the routine of
+ should have the
+ effect of promoting
+ animals on
+ had a
+ rather foolish
+ custom of addressing
+ one another as
+ to be
+ had also been
+ origin was
+ every Sunday morning
+ past a
+ which was
+ nailed to a
+ CHAPTER X
+ already been
+ visitors might
+ would perhaps have
+ the white
+ horn with
+ which it had
+ previously been
+ marked had now
+ It would
+ from now
+ only one
+ He could not
+ time announcing
+ the name
+ was to
+ was its correct
+ will give
+ the same
+ but in a
+ your glasses
+ here is
+ To the prosperity
+ There was the
+ were emptied
+ the animals outside
+ gazed at the
+ it seemed to
+ that had
+ tered in
+ the faces of
+ from one
+ face to
+ them had
+ some had
+ what was it
+ seemed to be
+ the applause
+ having come to
+ up their cards
+ and continued
+ the game
+ that had been
+ animals crept silently
+ But they
+ had not
+ twenty yards when
+ An uproar
+ of voices was
+ coming from the
+ They rushed
+ through the
+ violent quarrel
+ was in
+ There were
+ bangings on the
+ sharp suspicious
+ The source
+ of the
+ to be
+ that Napoleon and
+ Pilkington had each
+ an ace of
+ Twelve voices
+ and they
+ to the
+ faces of
+ and from
+ man to
+ and from
+ pig to man
+ but already it
